@@ -1,0 +1,10 @@
+# ignore default C compiler output
+a.out
+
+# ignore Java complier class files
+*.class
+
+# ignore specific files
+ids.txt
+addresses.txt
+
